@@ -26,7 +26,7 @@
 
 <style scoped>
 .banner {
-  background: linear-gradient(transparent, #111626), url("banner.jpeg");
+  background: linear-gradient(transparent, #111626), url("/banner.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
