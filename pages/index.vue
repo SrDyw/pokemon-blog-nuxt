@@ -1,4 +1,4 @@
-<script>
+<script setup>
 useHead({
   title: "Pokemon Blog",
   meta: [
